@@ -7,7 +7,7 @@
 🎓 I'm an advanced *Systems Analyst* student at **ORT Argentina**, passionate about building fullstack web apps with clean code and great UX.
 
 🚀 I’ve worked on academic and personal projects using modern technologies such as:
-- **Vue.js**, **React**, **TypeScript**, **Node.js**, **Express**, **Sequelize**, **Java**, **PostgreSQL/MySQL**, and **Figma**
+- **Vue.js**, **React**, **TypeScript**, **Node.js**, **Express**, **Sequelize**, **Java**, **Dort**, **Flutter**, **PostgreSQL/MySQL**, and **Figma**
 
 🛠️ Currently developing **FocusBoard**, a personal productivity planner built with a scalable and professional architecture.
 
